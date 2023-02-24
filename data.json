@@ -18,8 +18,20 @@
     "departmentId": "e4060d6b-7af3-4b59-916e-bd41972c0cd1",
     "subDepartmentId": "d3ef0498-7a20-482d-91d2-15cc7de48214",
     "rateId": "bbe5c172-0a18-41d9-b25f-827249282505",
-    "workingHoursStart": "17:00",
+    "workingHoursStart": "16:01",
     "workingHoursEnd": "22:00",
+    "breakTime": 0,
+    "totalWorkResult": 5
+  },
+  {
+    "date": "2023-02-23",
+    "employeeId": "c8454b93-29cc-4397-a0f7-8835593724d5",
+    "branchId": "3245c1d4-1149-4509-9f3e-cae63c021023",
+    "departmentId": "e4060d6b-7af3-4b59-916e-bd41972c0cd1",
+    "subDepartmentId": "d3ef0498-7a20-482d-91d2-15cc7de48214",
+    "rateId": "bbe5c172-0a18-41d9-b25f-827249282505",
+    "workingHoursStart": "21:00",
+    "workingHoursEnd": "23:50",
     "breakTime": 0,
     "totalWorkResult": 5
   }
